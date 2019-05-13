@@ -2,7 +2,7 @@
 
 Criado para ser o front de um site estilo dropbox;
 
-Pode ser acesso em: https://carlos-omnistack-frontend.herokuapp.com/
+Pode ser acessado em: https://carlos-omnistack-frontend.herokuapp.com/
 
 A criação desta aplicação, é para fins de estudos!
 
